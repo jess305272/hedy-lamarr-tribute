@@ -1,0 +1,51 @@
+body{
+  text-align: center;
+}
+#all {
+  background-color: #D1D0CE;
+  padding: 30px 200px;
+}
+#title-and-body {
+  background-color: #A9A9A9;
+  padding: 20px 100px;
+  border-radius: 5px;
+}
+.title {
+  text-align: center;
+  font-size: 55px;
+  font-family: sans-serif;
+}
+#sub-title {
+  font-size: 28px;
+  text-align: center;
+  font-family: sans-serif;
+  padding-bottom: 10px;
+  margin-top: 0px;
+}
+#image-and-text {
+  background-color: white;
+  padding: 6px 0px 2px 0px;
+  border-radius: 3px;
+  margin-bottom: 25px;
+}
+.image {
+  display: block;
+  margin: auto;
+}
+#image-hedy-lamarr {
+  width: 98.5%;
+  padding-top, padding-bottom: 20px;
+}
+#image-description {
+  text-align: center;
+  margin-top, margin-bottom: 3px;
+}
+#text-description {
+  text-align: left;
+}
+#quote {
+  padding-left, padding-right: 150px;
+}
+#quote-person {
+  color: #DCDCDC;
+}
